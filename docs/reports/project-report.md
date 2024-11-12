@@ -5,15 +5,15 @@
 |                   |                                  |
 | ----------------- | -------------------------------- |
 | **Project Title** | xxx
-| project start     | xxx.2018
+| project start     | 09.2024
 | project end       | ongoing
-| active stakeholder| xxx
-| cfd engineer      | Jan Lehmkuhl
-| design engineer   | xxx
-| checked by        | xxx
+| active stakeholder| Jan Lehmkuhl
+| cfd engineer      | Mohamed Ahmed
+| design engineer   | Mohamed Ahmed
+| checked by        | Jan Lehmkuhl
 <br>  
 
-<!-- Please add date of printing -->
+12.11.2024
 
 <!-- example picture for quick project identification -->
 ![](doc/images/XXX.png) 
